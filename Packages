@@ -1,0 +1,17 @@
+Package: com.jez.nonotifis
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Jez
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.jez.nonotifis.deb
+Size: 3384
+MD5sum: 7dce1c9946e9e10d3ca51721436d4942
+SHA1: 82c28e2ffb7a6712424a01cbae7481aa91b2cca9
+SHA256: 96520422d2512f51df4ddf1c14599ee62e05fa0194cced61a0e4cfd93e715ca3
+Section: Tweaks
+Description: Remove Notifications
+Author: Jez
+Depiction: https://jezwalmsley.github.io/depictions/web/?p=com.jez.nonotifis
+Name: NoNotfis
+
